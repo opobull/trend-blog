@@ -12,6 +12,7 @@ buildExpired = false
 
 [params]
   env = "production"
+  favicon = "/favicon.svg"
   description = "Real-time trending topics and breaking news coverage"
   author = ""
   defaultTheme = "auto"
