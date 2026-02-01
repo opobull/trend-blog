@@ -27,14 +27,6 @@ buildExpired = false
   showtoc = true
   tocopen = false
 
-  [params.homeInfoParams]
-    Title = "Within Trend"
-    Content = ""
-
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
