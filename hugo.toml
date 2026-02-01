@@ -32,6 +32,24 @@ buildExpired = false
     [languages.ja.params]
       description = "リアルタイムのトレンドトピックとニュース"
 
+  [languages.de]
+    languageCode = 'de-DE'
+    languageName = 'Deutsch'
+    weight = 3
+    title = 'Within Trend'
+    contentDir = 'content/de'
+    [languages.de.params]
+      description = "Echtzeit-Trendthemen und aktuelle Nachrichten"
+
+  [languages.es]
+    languageCode = 'es-ES'
+    languageName = 'Español'
+    weight = 4
+    title = 'Within Trend'
+    contentDir = 'content/es'
+    [languages.es.params]
+      description = "Temas de tendencia y noticias en tiempo real"
+
 [params]
   env = "production"
   disableLanguageSwitchingButton = true
