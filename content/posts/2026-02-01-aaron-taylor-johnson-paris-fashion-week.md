@@ -41,5 +41,8 @@ Aaron Taylor-Johnson continues work on Werwulf, which is currently filming in En
 
 ---
 
-*Source: Just Jared, Nine.com.au*  
+## Sources
+
+- [Nine.com.au](https://www.nine.com.au/)
+
 *Last updated: 2026-02-01 08:40 UTC*
