@@ -1,0 +1,51 @@
+baseURL = 'https://withintrend.org/'
+languageCode = 'en-us'
+title = 'Within Trend'
+theme = 'PaperMod'
+
+# SEO
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  description = "Real-time trending topics and breaking news coverage"
+  author = "Within Trend"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Within Trend"
+    Content = "Your source for real-time trending topics and breaking news"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    lineNos = false
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
