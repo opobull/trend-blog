@@ -13,7 +13,7 @@ buildExpired = false
 [params]
   env = "production"
   description = "Real-time trending topics and breaking news coverage"
-  author = "Within Trend"
+  author = ""
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
