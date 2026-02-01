@@ -1,8 +1,11 @@
 baseURL = 'https://withintrend.org/'
-languageCode = 'en-us'
 title = 'Within Trend'
 theme = 'PaperMod'
 googleAnalytics = 'G-LYGHJGWPR2'
+
+# 기본 언어: 영어
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 
 # SEO
 enableRobotsTXT = true
@@ -10,10 +13,28 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+# 다국어 설정
+[languages]
+  [languages.en]
+    languageCode = 'en-US'
+    languageName = 'English'
+    weight = 1
+    title = 'Within Trend'
+    [languages.en.params]
+      description = "Real-time trending topics and breaking news coverage"
+
+  [languages.ja]
+    languageCode = 'ja-JP'
+    languageName = '日本語'
+    weight = 2
+    title = 'Within Trend'
+    contentDir = 'content/ja'
+    [languages.ja.params]
+      description = "リアルタイムのトレンドトピックとニュース"
+
 [params]
   env = "production"
   favicon = "/favicon.svg"
-  description = "Real-time trending topics and breaking news coverage"
   author = ""
   defaultTheme = "auto"
   ShowReadingTime = true
