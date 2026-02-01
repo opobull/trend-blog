@@ -29,7 +29,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "Within Trend"
-    Content = "Your source for real-time trending topics and breaking news"
+    Content = ""
 
   [[params.socialIcons]]
     name = "rss"
