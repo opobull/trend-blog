@@ -1,0 +1,4 @@
+/* Hide language switch button */
+.lang-switch {
+  display: none !important;
+}
