@@ -2,6 +2,7 @@ baseURL = 'https://withintrend.org/'
 languageCode = 'en-us'
 title = 'Within Trend'
 theme = 'PaperMod'
+googleAnalytics = 'G-LYGHJGWPR2'
 
 # SEO
 enableRobotsTXT = true

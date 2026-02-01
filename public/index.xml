@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Within Trend</title>
+    <link>https://withintrend.org/</link>
+    <description>Recent content on Within Trend</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2026 07:40:00 +0000</lastBuildDate>
+    <atom:link href="https://withintrend.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Within Trend</title>
+      <link>https://withintrend.org/posts/2026-02-01-welcome/</link>
+      <pubDate>Sun, 01 Feb 2026 07:40:00 +0000</pubDate>
+      <guid>https://withintrend.org/posts/2026-02-01-welcome/</guid>
+      <description>Your source for real-time trending topics and breaking news coverage.</description>
+    </item>
+  </channel>
+</rss>
