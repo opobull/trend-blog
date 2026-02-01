@@ -34,6 +34,7 @@ buildExpired = false
 
 [params]
   env = "production"
+  disableLanguageSwitchingButton = true
   favicon = "/favicon.svg"
   author = ""
   defaultTheme = "auto"
