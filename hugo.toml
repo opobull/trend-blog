@@ -50,6 +50,15 @@ buildExpired = false
     [languages.es.params]
       description = "Temas de tendencia y noticias en tiempo real"
 
+  [languages.ko]
+    languageCode = 'ko-KR'
+    languageName = '한국어'
+    weight = 5
+    title = 'Within Trend'
+    contentDir = 'content/ko'
+    [languages.ko.params]
+      description = "실시간 트렌드 토픽과 뉴스"
+
 [params]
   env = "production"
   disableLanguageSwitchingButton = true
