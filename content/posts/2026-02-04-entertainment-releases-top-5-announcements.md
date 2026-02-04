@@ -1,6 +1,6 @@
 ---
 title: "Entertainment Releases: February 4, 2026 - Top 5 Announcements"
-date: 2026-02-04T12:00:00Z
+date: 2026-02-04T04:00:00Z
 draft: false
 tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
 description: "Today's biggest entertainment announcements: BTS Netflix comeback, The Drama trailer with Zendaya and Robert Pattinson, Michael Jackson biopic trailer, Apple TV+ 2026 slate, and Bridgerton Season 4 Part 2."

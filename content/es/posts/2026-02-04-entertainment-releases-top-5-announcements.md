@@ -1,6 +1,6 @@
 ---
 title: "Novedades del Entretenimiento: 4 de febrero de 2026 - Los 5 Anuncios Más Destacados"
-date: 2026-02-04T12:00:00Z
+date: 2026-02-04T04:00:00Z
 draft: false
 tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
 description: "Los anuncios de entretenimiento más importantes de hoy: regreso de BTS en Netflix, tráiler de The Drama con Zendaya y Robert Pattinson, tráiler de la película biográfica de Michael Jackson, programación de Apple TV+ 2026 y Bridgerton Temporada 4 Parte 2."

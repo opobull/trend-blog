@@ -1,6 +1,6 @@
 ---
 title: "엔터테인먼트 속보: 2026년 2월 4일 - 주요 발표 TOP 5"
-date: 2026-02-04T12:00:00Z
+date: 2026-02-04T04:00:00Z
 draft: false
 tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
 description: "오늘의 주요 엔터테인먼트 발표: BTS 넷플릭스 컴백, 젠데이아·로버트 패틴슨 '더 드라마' 예고편, 마이클 잭슨 전기영화 예고편, 애플 TV+ 2026년 라인업, 브리저튼 시즌4 파트2."

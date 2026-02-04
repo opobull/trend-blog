@@ -1,6 +1,6 @@
 ---
 title: "エンタメ速報：2026年2月4日 - 注目の発表トップ5"
-date: 2026-02-04T12:00:00Z
+date: 2026-02-04T04:00:00Z
 draft: false
 tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
 description: "本日の注目エンタメ発表：BTSのNetflixカムバック、ゼンデイヤ＆ロバート・パティンソン出演『ザ・ドラマ』予告編、マイケル・ジャクソン伝記映画予告編、Apple TV+ 2026年ラインナップ、ブリジャートン シーズン4 Part 2。"
