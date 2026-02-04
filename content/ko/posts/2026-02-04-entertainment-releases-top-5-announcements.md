@@ -1,128 +1,126 @@
 ---
-title: "엔터테인먼트 소식: 2026년 2월 4일 - 주요 발표 TOP 5"
-date: 2026-02-04T04:30:00Z
+title: "엔터테인먼트 속보: 2026년 2월 4일 - 주요 발표 TOP 5"
+date: 2026-02-04T12:00:00Z
 draft: false
-tags: ["entertainment", "streaming", "netflix", "gaming", "tv-shows"]
-description: "지난 24시간 주요 엔터테인먼트 발표: GTA 6 출시일 확정, The Drama 예고편, 켈리 클락슨 쇼 종영, 넷플릭스 스트리밍 업데이트"
+tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
+description: "오늘의 주요 엔터테인먼트 발표: BTS 넷플릭스 컴백, 젠데이아·로버트 패틴슨 '더 드라마' 예고편, 마이클 잭슨 전기영화 예고편, 애플 TV+ 2026년 라인업, 브리저튼 시즌4 파트2."
 cover:
   image: "/images/entertainment-2026-02-04-1.jpg"
-  alt: "엔터테인먼트 뉴스 2026년 2월"
+  alt: "엔터테인먼트 속보 2026년 2월 4일"
 ---
 
-엔터테인먼트 업계에서 지난 24시간 동안 여러 중요한 발표가 있었습니다. 가장 기대되는 게임 출시부터 스트리밍 플랫폼 업데이트, 토크쇼 종영까지 꼭 알아야 할 TOP 5 발표를 정리했습니다.
+스트리밍 프리미어부터 극장 개봉까지, 오늘 화제가 된 엔터테인먼트 발표 TOP 5를 소개합니다.
 
-## 1. GTA 6, 2026년 11월 19일 출시 재확인
+## 1. BTS: The Return - 넷플릭스 라이브 콘서트 및 다큐멘터리
 
-![GTA 6](/images/entertainment-2026-02-04-1.jpg)
+![BTS 넷플릭스 컴백](/images/entertainment-2026-02-04-1.jpg)
 
-Take-Two Interactive가 그랜드 테프트 오토 VI(Grand Theft Auto VI)가 **2026년 11월 19일** PlayStation 5 및 Xbox Series X|S로 출시됨을 공식 재확인했습니다. 이번 발표는 Take-Two의 분기 실적 발표를 앞두고 이루어졌습니다.
+넷플릭스가 BTS의 3년 만의 라이브 콘서트를 단독 스트리밍한다고 공식 발표했습니다. **2026년 3월 21일** 진행되는 컴백 공연 "BTS: THE COMEBACK LIVE | ARIRANG"은 서울 광화문 광장에서 열립니다.
 
-### 주요 정보
+라이브 스트리밍에 이어 다큐멘터리 영화 **"BTS: The Return"**이 **2026년 3월 27일** 넷플릭스에서 전 세계 최초 공개됩니다. 바오 응우옌 감독(The Greatest Night in Pop)이 연출한 이 작품은 멤버들의 군 복무 완료 후 대망의 복귀 과정을 담은 비하인드 영상을 선보입니다.
 
-| 항목 | 내용 |
-|------|------|
-| 출시일 | 2026년 11월 19일 |
-| 플랫폼 | PS5, Xbox Series X/S |
-| 마케팅 시작 | 2026년 여름 |
-| 개발사 | Rockstar Games |
+콘서트는 대형 라이브 이벤트로 유명한 해미시 해밀턴이 연출합니다. 2022년 활동 휴지 발표 이후 처음으로 완전체 활동입니다.
 
-본 게임은 당초 2026년 5월 26일 출시 예정이었으나 연기되었습니다. Take-Two는 마케팅 캠페인이 2026년 여름에 시작될 것이라고 확인하며, 역대 가장 기대되는 게임 출시에 대한 기대감을 높이고 있습니다.
-
-- [Indy100 - GTA 6 출시일 업데이트](https://www.indy100.com/gaming/gta-6-release-date-rockstar-games)
+**주요 정보:**
+- 라이브 콘서트: 2026년 3월 21일 (오후 8시 KST)
+- 다큐멘터리: 2026년 3월 27일
+- 플랫폼: 넷플릭스 (전 세계 독점)
 
 ---
 
-## 2. The Drama: 젠데이아와 로버트 패틴슨 주연 A24 신작 예고편 공개
-
-![The Drama](/images/entertainment-2026-02-04-2.jpg)
-
-A24가 젠데이아와 로버트 패틴슨 주연의 **'The Drama'** 새 예고편(2분)을 공개했습니다. 이 로맨틱 코미디 드라마는 **2026년 4월 3일** 극장 개봉 예정입니다.
-
-### 줄거리
-
-영화는 서점 점원 엠마 하우드(젠데이아)와 박물관 관장 찰리 톰슨(패틴슨)을 중심으로 전개됩니다. 결혼식을 며칠 앞두고 무해한 파티 게임 중 한 쪽이 어두운 비밀을 밝히면서 두 사람의 관계는 격렬한 시험대에 오릅니다.
-
-### 출연진
-
-- **젠데이아** - 엠마 하우드 역
-- **로버트 패틴슨** - 찰리 톰슨 역
-- 알라나 하임
-- 마무두 아티
-- 마이클 애보트 주니어
-
-'Dream Scenario', 'Sick of Myself'의 크리스토퍼 보르글리 각본·감독, 아리 애스터 제작.
-
-- [Gold Derby - The Drama 예고편](https://www.goldderby.com/film/2026/zendaya-robert-pattinson-the-drama-trailer-release-date/)
+**출처:**
+- [Netflix Tudum](https://www.netflix.com/tudum/articles/bts-live-concert-documentary-release-date-news)
+- [Deadline](https://deadline.com/2026/02/bts-netflix-special-documentary-unveil-premiere-dates-1236706719/)
+- [BBC News](https://www.bbc.com/news/articles/cvgp6115ee9o)
 
 ---
 
-## 3. 켈리 클락슨 쇼, 시즌 7 이후 종영
+## 2. 더 드라마 - 공식 예고편 공개 (젠데이아 & 로버트 패틴슨)
 
-![켈리 클락슨 쇼](/images/entertainment-2026-02-04-3.jpg)
+![더 드라마 영화](/images/entertainment-2026-02-04-2.jpg)
 
-켈리 클락슨이 **2026년 2월 2일** 자신의 낮 시간대 토크쇼가 현재 진행 중인 시즌 7을 끝으로 종영한다고 발표했습니다. 마지막 에피소드는 2026년 가을까지 방영됩니다.
+A24가 젠데이아와 로버트 패틴슨이 결혼을 앞둔 커플로 출연하는 로맨틱 코미디 드라마 **"더 드라마"**의 공식 예고편을 공개했습니다. 크리스토퍼 보르글리가 각본과 연출을 맡았습니다.
 
-### 성명
+젠데이아는 에마 하우드, 패틴슨은 찰리 톰슨 역으로, 결혼식을 며칠 앞두고 극심한 위기에 직면합니다. 예고편은 팬들 사이에서 반전에 대한 다양한 추측을 불러일으키고 있습니다.
 
-발표에서 클락슨은 "일상적인 스케줄에서 벗어나면 아이들에게 우선순위를 둘 수 있게 됩니다"라고 밝혔습니다.
+**출연:** 젠데이아, 로버트 패틴슨, 마무두 아시에, 알라나 하임, 헤일리 게이츠, 마이클 애보트 Jr., 시드니 레먼
 
-### 타임라인
-
-| 구분 | 일정 |
-|------|------|
-| 방송 시작 | 2019년 |
-| 마지막 시즌 | 시즌 7 (현재) |
-| 종영 예정 | 2026년 가을 |
-
-2019년 데뷔 이후 이 프로그램은 낮 시간대 시청률의 강자이자 다수의 상을 수상했습니다. 제작은 예정대로 계속되며, 남은 기간 동안 일부 게스트 호스트 에피소드가 포함될 예정입니다.
-
-- [TV Guide - 방영 연장·종영 정보](https://www.tvguide.com/news/canceled-renewed-tv-shows-february-2026/)
+**개봉일:** 2026년 4월 3일 (극장, A24 배급)
 
 ---
 
-## 4. 더 나이트 에이전트 시즌 3, 2월 19일 넷플릭스 공개
-
-![더 나이트 에이전트](/images/entertainment-2026-02-04-4.jpg)
-
-넷플릭스가 **'더 나이트 에이전트' 시즌 3**이 **2026년 2월 19일** 공개된다고 확인했습니다. 가브리엘 바소 주연의 스릴러 시리즈가 또 한 번의 액션 가득한 시즌으로 돌아옵니다.
-
-### 시즌 3 정보
-
-FBI 요원 피터 서덜랜드가 정부 내 위험한 음모를 파헤치는 이야기입니다. 시즌 3은 넷플릭스에서 가장 많이 시청된 오리지널 시리즈 중 하나로 자리매김한 고강도 스릴러를 이어갑니다.
-
-### 2월 넷플릭스 주요 작품
-
-| 작품 | 공개일 |
-|------|--------|
-| 더 나이트 에이전트 S3 | 2월 19일 |
-| 브리저튼 S4 파트2 | 2월 26일 |
-| 링컨 로이어 S4 | 2월 5일 |
-
-- [US Magazine - 2026년 2월 넷플릭스 신작](https://www.usmagazine.com/entertainment/news/new-on-netflix-prime-video-hbo-max-more-in-february-2026-full-list-of-movies-and-shows/)
+**출처:**
+- [Variety](https://variety.com/2026/film/news/the-drama-trailer-zendaya-robert-pattinson-wedding-1236650051/)
+- [Deadline](https://deadline.com/2026/02/the-drama-trailer-zendaya-robert-pattinson-a24-1236644026/)
 
 ---
 
-## 5. 브리저튼 시즌 4 파트 2, 2월 26일 공개
+## 3. 마이클 - 전기영화 공식 예고편 공개
+
+![마이클 잭슨 전기영화](/images/entertainment-2026-02-04-3.jpg)
+
+마이클 잭슨의 조카 자파르 잭슨이 주연을 맡은 전기영화 **"마이클"**의 공식 예고편이 2026년 2월 2일 공개되었습니다. 앙투안 푸쿠아 감독, 라이언스게이트 제작으로, 킹 오브 팝의 어린 시절부터 세계적인 슈퍼스타가 되기까지의 여정을 그립니다.
+
+자파르 잭슨의 삼촌으로의 변신은 팬과 평론가 모두를 감탄시켰으며, 진정성 있는 연기가 호평받고 있습니다. 콜먼 도밍고도 출연하며 2부작으로 공개됩니다.
+
+**주요 정보:**
+- 미국 개봉: 2026년 4월 24일 (라이언스게이트)
+- 해외 개봉: 2026년 4월 23~24일 (유니버설 픽처스)
+- 감독: 앙투안 푸쿠아
+- 주연: 자파르 잭슨 (마이클 잭슨 역)
+
+---
+
+**출처:**
+- [CBC News](https://www.cbc.ca/news/entertainment/michael-biopic-trailer-9.7071419)
+- [CNN](https://www.cnn.com/2026/02/03/entertainment/video/entertainment-showbiz-hollywood-movies-streaming-michael-jackson)
+- [Empire](https://www.empireonline.com/movies/news/michael-jackson-biopics-latest-trailer-sees-mj-face-the-man-in-the-mirror-and-his-father/)
+
+---
+
+## 4. 애플 TV+ 2026 프레스 데이 - 대규모 콘텐츠 라인업 공개
+
+![Apple TV Plus 2026](/images/entertainment-2026-02-04-4.jpg)
+
+애플이 2월 3일 산타모니카 바커 행거에서 첫 "2026 TV 프레스 데이"를 개최하고, 올해 공개될 화려한 영화와 시리즈 라인업을 발표했습니다.
+
+**주요 발표:**
+- **Matchbox The Movie:** 존 시나가 CIA 잠입 요원으로, 마텔의 상징적인 장난감 자동차에서 영감을 받은 영화
+- **Imperfect Women:** 케이트 마라, 조엘 키나만 출연 심리 스릴러. 수십 년 우정을 무너뜨리는 범죄를 다룸
+- **The Studio:** 새 코미디 시리즈
+- **The Last Thing He Told Me: 시즌 2:** 2026년 2월 20일 공개
+- **Shrinking: 시즌 2:** 방영 중
+- **스포츠 중계:** F1, MLB, MLS 확정
+
+카메론 디아즈, 미셸 파이퍼 등 유명 배우들이 참석했으며, 신작 출연자들이 무대에서 작품에 대해 이야기했습니다.
+
+---
+
+**출처:**
+- [Deadline](https://deadline.com/2026/02/apple-2026-film-tv-slate-press-day-1236707518/)
+- [9to5Mac](https://9to5mac.com/2026/02/03/apple-hosts-apple-tv-media-event-heres-everything-thats-been-announced/)
+- [People](https://people.com/every-celeb-apple-tv-2026-press-day-event-exclusive-11898951)
+
+---
+
+## 5. 브리저튼 시즌 4 파트 2 - 티저 예고편 및 키아트 공개
 
 ![브리저튼 시즌 4](/images/entertainment-2026-02-04-5.jpg)
 
-넷플릭스가 **'브리저튼' 시즌 4 파트 2**가 **2026년 2월 26일** 공개된다고 발표했습니다. 리전시 시대를 배경으로 한 로맨스 드라마에서 베네딕트 브리저튼과 소피 백의 사랑 이야기가 이어집니다.
+넷플릭스가 **브리저튼 시즌 4 파트 2**의 공식 티저 예고편과 키아트를 공개했습니다. **2026년 2월 26일** 공개 예정입니다. 이번 시즌은 베네딕트 브리저튼의 러브 스토리에 초점을 맞추고 있습니다.
 
-### 기대 포인트
+조너선 베일리, 시몬 애슐리, 니콜라 코플란, 루크 뉴튼, 루스 젬멜, 클로디아 제시, 아드조아 안도, 골다 로슈벨 등 앙상블 캐스트가 복귀합니다.
 
-시즌 4는 베네딕트 브리저튼(루크 톰슨)의 로맨틱한 여정에 초점을 맞춥니다. 파트 2에서는 올해 초 공개된 파트 1에서 시작된 스토리가 마무리됩니다.
+시즌 4 파트 1은 1월 말 공개되어 빠르게 넷플릭스 글로벌 차트 1위에 올랐습니다.
 
-줄리아 퀸의 소설을 원작으로 하고 숀달랜드가 제작한 이 시리즈는 넷플릭스의 대표 오리지널 작품 중 하나입니다.
-
-- [US Magazine - 브리저튼 시즌 4](https://www.usmagazine.com/entertainment/news/bridgerton-season-4-cast-meet-the-stars-of-benedict-sophies-love-story/)
+**공개일:** 2026년 2월 26일 (넷플릭스)
 
 ---
 
-## 출처
+**출처:**
+- [Hollywood Reporter](https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/)
+- [Rotten Tomatoes](https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026/)
 
-- [Take-Two Interactive 분기 실적](https://www.indy100.com/gaming/gta-6-release-date-rockstar-games)
-- [A24 - The Drama 공식 예고편](https://www.goldderby.com/film/2026/zendaya-robert-pattinson-the-drama-trailer-release-date/)
-- [TV Guide - 2026년 2월 연장·종영 정보](https://www.tvguide.com/news/canceled-renewed-tv-shows-february-2026/)
-- [US Magazine - 2026년 2월 스트리밍](https://www.usmagazine.com/entertainment/news/new-on-netflix-prime-video-hbo-max-more-in-february-2026-full-list-of-movies-and-shows/)
+---
 
-*최종 업데이트: 2026-02-04 04:30 UTC*
+*최종 업데이트: 2026년 2월 4일 12:00 UTC*

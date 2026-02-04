@@ -1,128 +1,126 @@
 ---
 title: "Entertainment-News: 4. Februar 2026 - Die Top 5 Ankündigungen"
-date: 2026-02-04T04:30:00Z
+date: 2026-02-04T12:00:00Z
 draft: false
-tags: ["entertainment", "streaming", "netflix", "gaming", "tv-shows"]
-description: "Die wichtigsten Entertainment-Ankündigungen der letzten 24 Stunden: GTA 6 Erscheinungsdatum bestätigt, The Drama Trailer, Kelly Clarkson Show endet und mehr."
+tags: ["entertainment", "streaming", "netflix", "apple-tv", "movies"]
+description: "Die wichtigsten Entertainment-Ankündigungen des Tages: BTS Netflix-Comeback, The Drama-Trailer mit Zendaya und Robert Pattinson, Michael Jackson-Biopic-Trailer, Apple TV+ 2026 Programm und Bridgerton Staffel 4 Teil 2."
 cover:
   image: "/images/entertainment-2026-02-04-1.jpg"
-  alt: "Entertainment-Neuigkeiten Februar 2026"
+  alt: "Entertainment-News 4. Februar 2026"
 ---
 
-Die Entertainment-Branche hat in den letzten 24 Stunden mehrere wichtige Ankündigungen gemacht. Von der meisterwarteten Spieleveröffentlichung über Streaming-Updates bis hin zum Ende einer Talkshow – hier sind die Top 5 Ankündigungen, die Sie kennen sollten.
+Hier sind die fünf größten Entertainment-Ankündigungen des Tages – von Streaming-Premieren bis zu Kinostarts.
 
-## 1. GTA 6 Erscheinungsdatum für den 19. November 2026 erneut bestätigt
+## 1. BTS: The Return - Netflix-Livekonzert und Dokumentation
 
-![GTA 6](/images/entertainment-2026-02-04-1.jpg)
+![BTS Netflix Comeback](/images/entertainment-2026-02-04-1.jpg)
 
-Take-Two Interactive hat offiziell bestätigt, dass Grand Theft Auto VI am **19. November 2026** für PlayStation 5 und Xbox Series X|S erscheinen wird. Die Ankündigung erfolgte vor Take-Twos jüngster Quartalsbilanz.
+Netflix hat offiziell angekündigt, dass BTS ihr erstes Live-Konzert seit über drei Jahren exklusiv auf der Plattform streamen werden – am **21. März 2026**. Die Comeback-Performance mit dem Titel "BTS: THE COMEBACK LIVE | ARIRANG" findet am historischen Gwanghwamun-Platz in Seoul statt.
 
-### Wichtige Details
+Im Anschluss an den Livestream wird der Dokumentarfilm **"BTS: The Return"** am **27. März 2026** auf Netflix Premiere feiern. Unter der Regie von Bao Nguyen (The Greatest Night in Pop) bietet die Dokumentation einen Blick hinter die Kulissen der mit Spannung erwarteten Rückkehr der Gruppe nach Beendigung ihres Militärdienstes.
 
-| Punkt | Details |
-|-------|---------|
-| Erscheinungsdatum | 19. November 2026 |
-| Plattformen | PS5, Xbox Series X/S |
-| Marketing-Start | Sommer 2026 |
-| Entwickler | Rockstar Games |
+Das Konzert wird von Hamish Hamilton inszeniert, der für seine Arbeit bei großen Live-Events bekannt ist. Es ist die erste vollständige Gruppenaktivität seit der Hiatus-Ankündigung 2022.
 
-Das Spiel wurde zuvor vom ursprünglichen Termin am 26. Mai 2026 verschoben. Take-Two bestätigte, dass die Marketingkampagne im Sommer 2026 beginnen wird.
-
-- [Indy100 - GTA 6 Erscheinungsdatum-Update](https://www.indy100.com/gaming/gta-6-release-date-rockstar-games)
+**Wichtige Details:**
+- Live-Konzert: 21. März 2026 (20:00 KST / 12:00 MEZ)
+- Dokumentation: 27. März 2026
+- Plattform: Netflix (weltweite Exklusivität)
 
 ---
 
-## 2. The Drama: Neuer Trailer zeigt Zendaya und Robert Pattinson in A24-Romanze
-
-![The Drama](/images/entertainment-2026-02-04-2.jpg)
-
-A24 hat einen neuen zweiminütigen Trailer für **The Drama** veröffentlicht, mit Zendaya und Robert Pattinson in den Hauptrollen. Die romantische Komödie startet am **3. April 2026** in den Kinos.
-
-### Handlung
-
-Der Film folgt Emma Harwood (Zendaya), einer Buchhändlerin, und Charlie Thompson (Pattinson), einem Museumsdirektor. Ihre Beziehung wird nur wenige Tage vor ihrer Hochzeit auf die Probe gestellt, als ein Partner ein dunkles Geheimnis während eines harmlosen Partyspiels enthüllt.
-
-### Besetzung
-
-- **Zendaya** als Emma Harwood
-- **Robert Pattinson** als Charlie Thompson
-- Alana Haim
-- Mamoudou Athie
-- Michael Abbott Jr.
-
-Regie und Drehbuch stammen von Kristoffer Borgli (Dream Scenario, Sick of Myself), produziert von Ari Aster.
-
-- [Gold Derby - The Drama Trailer](https://www.goldderby.com/film/2026/zendaya-robert-pattinson-the-drama-trailer-release-date/)
+**Quellen:**
+- [Netflix Tudum](https://www.netflix.com/tudum/articles/bts-live-concert-documentary-release-date-news)
+- [Deadline](https://deadline.com/2026/02/bts-netflix-special-documentary-unveil-premiere-dates-1236706719/)
+- [BBC News](https://www.bbc.com/news/articles/cvgp6115ee9o)
 
 ---
 
-## 3. Die Kelly Clarkson Show endet nach Staffel 7
+## 2. The Drama - Offizieller Trailer veröffentlicht (Zendaya & Robert Pattinson)
 
-![Kelly Clarkson Show](/images/entertainment-2026-02-04-3.jpg)
+![The Drama Film](/images/entertainment-2026-02-04-2.jpg)
 
-Kelly Clarkson gab am **2. Februar 2026** bekannt, dass ihre Talkshow nach der aktuellen siebten Staffel enden wird. Die letzten Folgen werden im Herbst 2026 ausgestrahlt.
+A24 hat den vollständigen offiziellen Trailer zu **"The Drama"** veröffentlicht, in dem Zendaya und Robert Pattinson ein verlobtes Paar spielen, das am Hochzeitstag in eine Krise gerät. Die romantische Dramödie stammt aus der Feder und Regie von Kristoffer Borgli.
 
-### Statement
+Zendaya spielt Emma Harwood, Pattinson verkörpert Charlie Thompson – ihre Beziehung wird in den Tagen vor der Hochzeit auf die Probe gestellt. Der Trailer hat unter Fans intensive Spekulationen über mögliche Plotwendungen ausgelöst.
 
-In ihrer Ankündigung erklärte Clarkson: „Der Abschied vom täglichen Zeitplan wird mir ermöglichen, meine Kinder zur Priorität zu machen."
+**Besetzung:** Zendaya, Robert Pattinson, Mamoudou Athie, Alana Haim, Hailey Gates, Michael Abbott Jr., Sydney Lemmon
 
-### Zeitplan
-
-| Meilenstein | Datum |
-|-------------|-------|
-| Show-Premiere | 2019 |
-| Letzte Staffel | Staffel 7 (aktuell) |
-| Voraussichtliches Ende | Herbst 2026 |
-
-Die Show war seit ihrem Debüt 2019 ein beständiger Erfolg im Tagesprogramm und mehrfacher Preisträger. Die Produktion wird planmäßig fortgesetzt, mit einigen Gastmoderationen während der verbleibenden Monate.
-
-- [TV Guide - Verlängerte und abgesetzte Serien](https://www.tvguide.com/news/canceled-renewed-tv-shows-february-2026/)
+**Kinostart:** 3. April 2026 (A24)
 
 ---
 
-## 4. The Night Agent Staffel 3 startet am 19. Februar auf Netflix
-
-![The Night Agent](/images/entertainment-2026-02-04-4.jpg)
-
-Netflix hat bestätigt, dass **The Night Agent Staffel 3** am **19. Februar 2026** Premiere feiert. Die Thriller-Serie mit Gabriel Basso kehrt für eine weitere actiongeladene Staffel zurück.
-
-### Details zu Staffel 3
-
-Die Serie folgt FBI-Agent Peter Sutherland, der gefährliche Verschwörungen innerhalb der Regierung aufdeckt. Staffel 3 setzt den spannungsgeladenen Thriller fort, der zu einer der meistgesehenen Netflix-Originalserien geworden ist.
-
-### Netflix-Highlights im Februar
-
-| Serie | Premiere |
-|-------|----------|
-| The Night Agent S3 | 19. Februar |
-| Bridgerton S4 Teil 2 | 26. Februar |
-| The Lincoln Lawyer S4 | 5. Februar |
-
-- [US Magazine - Neu auf Netflix Februar 2026](https://www.usmagazine.com/entertainment/news/new-on-netflix-prime-video-hbo-max-more-in-february-2026-full-list-of-movies-and-shows/)
+**Quellen:**
+- [Variety](https://variety.com/2026/film/news/the-drama-trailer-zendaya-robert-pattinson-wedding-1236650051/)
+- [Deadline](https://deadline.com/2026/02/the-drama-trailer-zendaya-robert-pattinson-a24-1236644026/)
 
 ---
 
-## 5. Bridgerton Staffel 4 Teil 2 erscheint am 26. Februar
+## 3. Michael - Offizieller Biopic-Trailer veröffentlicht
+
+![Michael Jackson Biopic](/images/entertainment-2026-02-04-3.jpg)
+
+Der offizielle Trailer zu **"Michael"**, dem Michael-Jackson-Biopic mit seinem Neffen Jaafar Jackson in der Hauptrolle, wurde am 2. Februar 2026 veröffentlicht. Unter der Regie von Antoine Fuqua und produziert von Lionsgate erzählt der Film die Geschichte des King of Pop – von seiner Kindheit bis zum Weltruhm.
+
+Jaafar Jacksons Verwandlung in seinen Onkel hat Fans und Kritiker gleichermaßen beeindruckt, wobei viele seine authentische Darstellung loben. Der Film ist als Zweiteiler geplant und zeigt auch Colman Domingo in einer Rolle.
+
+**Wichtige Informationen:**
+- US-Kinostart: 24. April 2026 (Lionsgate)
+- Internationaler Start: 23.-24. April 2026 (Universal Pictures)
+- Regie: Antoine Fuqua
+- Hauptrolle: Jaafar Jackson als Michael Jackson
+
+---
+
+**Quellen:**
+- [CBC News](https://www.cbc.ca/news/entertainment/michael-biopic-trailer-9.7071419)
+- [CNN](https://www.cnn.com/2026/02/03/entertainment/video/entertainment-showbiz-hollywood-movies-streaming-michael-jackson)
+- [Empire](https://www.empireonline.com/movies/news/michael-jackson-biopics-latest-trailer-sees-mj-face-the-man-in-the-mirror-and-his-father/)
+
+---
+
+## 4. Apple TV+ 2026 Press Day - Großes Content-Lineup enthüllt
+
+![Apple TV Plus 2026](/images/entertainment-2026-02-04-4.jpg)
+
+Apple veranstaltete am 3. Februar seinen ersten "2026 TV Press Day" im Barker Hangar in Santa Monica und enthüllte ein Star-besetztes Lineup neuer Filme und Serien für das Jahr.
+
+**Wichtige Ankündigungen:**
+- **Matchbox The Movie:** John Cena als verdeckter CIA-Agent in einem Film, der von Mattels ikonischen Spielzeugautos inspiriert ist
+- **Imperfect Women:** Kate Mara und Joel Kinnaman in einem Psychothriller über ein Verbrechen, das eine jahrzehntelange Freundschaft zerstört
+- **The Studio:** Neue Comedyserie
+- **The Last Thing He Told Me: Staffel 2:** Premiere am 20. Februar 2026
+- **Shrinking: Staffel 2:** Bereits auf Sendung
+- **Sport-Übertragungen:** F1, MLB und MLS bestätigt
+
+Prominente wie Cameron Diaz und Michelle Pfeiffer nahmen an der Veranstaltung teil, während Stars kommender Projekte auf der Bühne über ihre Arbeit sprachen.
+
+---
+
+**Quellen:**
+- [Deadline](https://deadline.com/2026/02/apple-2026-film-tv-slate-press-day-1236707518/)
+- [9to5Mac](https://9to5mac.com/2026/02/03/apple-hosts-apple-tv-media-event-heres-everything-thats-been-announced/)
+- [People](https://people.com/every-celeb-apple-tv-2026-press-day-event-exclusive-11898951)
+
+---
+
+## 5. Bridgerton Staffel 4 Teil 2 - Teaser-Trailer und Key Art veröffentlicht
 
 ![Bridgerton Staffel 4](/images/entertainment-2026-02-04-5.jpg)
 
-Netflix kündigte an, dass **Bridgerton Staffel 4 Teil 2** am **26. Februar 2026** verfügbar sein wird. Das Regency-Ära-Romantikdrama setzt die Liebesgeschichte von Benedict Bridgerton und Sophie Baek fort.
+Netflix hat den offiziellen Teaser-Trailer und das Key Art für **Bridgerton Staffel 4 Teil 2** veröffentlicht, das am **26. Februar 2026** Premiere feiert. Die aktuelle Staffel konzentriert sich auf Benedict Bridgertons Liebesgeschichte.
 
-### Was erwartet uns
+Das Ensemble der Staffel kehrt zurück, darunter Jonathan Bailey, Simone Ashley, Nicola Coughlan, Luke Newton, Ruth Gemmell, Claudia Jessie, Adjoa Andoh und Golda Rosheuvel.
 
-Staffel 4 konzentriert sich auf Benedict Bridgerton (Luke Thompson) und seine romantische Reise. Teil 2 wird die Geschichte abschließen, die mit der Premiere von Teil 1 Anfang des Jahres begann.
+Staffel 4 Teil 1 startete Ende Januar und erreichte schnell die Spitze der globalen Netflix-Charts.
 
-Die Serie, basierend auf Julia Quinns Romanen und produziert von Shondaland, bleibt eine der Flaggschiff-Produktionen von Netflix.
-
-- [US Magazine - Bridgerton Staffel 4](https://www.usmagazine.com/entertainment/news/bridgerton-season-4-cast-meet-the-stars-of-benedict-sophies-love-story/)
+**Premiere:** 26. Februar 2026 (Netflix)
 
 ---
 
-## Quellen
+**Quellen:**
+- [Hollywood Reporter](https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/)
+- [Rotten Tomatoes](https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026/)
 
-- [Take-Two Interactive Quartalsbericht](https://www.indy100.com/gaming/gta-6-release-date-rockstar-games)
-- [A24 - The Drama Offizieller Trailer](https://www.goldderby.com/film/2026/zendaya-robert-pattinson-the-drama-trailer-release-date/)
-- [TV Guide - Februar 2026 Verlängerungen und Absetzungen](https://www.tvguide.com/news/canceled-renewed-tv-shows-february-2026/)
-- [US Magazine - Streaming Februar 2026](https://www.usmagazine.com/entertainment/news/new-on-netflix-prime-video-hbo-max-more-in-february-2026-full-list-of-movies-and-shows/)
+---
 
-*Zuletzt aktualisiert: 04.02.2026 04:30 UTC*
+*Zuletzt aktualisiert: 4. Februar 2026, 12:00 UTC*
