@@ -1,9 +1,9 @@
 ---
 title: "ZDF-Mediathek im Februar 2026: Neue Serien, Olympia und Highlights im Überblick"
-date: 2026-02-01
-slug: "zdf-mediathek-februar-2026"
-description: "Was ist neu in der ZDF-Mediathek im Februar 2026? Von der beliebten Serie „Frühling" bis zu den Olympischen Winterspielen – alle Streaming-Highlights im Überblick."
-keywords: ["ZDF Mediathek", "Februar 2026", "Streaming", "Neue Serien", "Frühling Staffel 15", "Olympische Winterspiele", "How To Kill Your Sister", "Mordufer"]
+date: 2026-02-01T12:00:00Z
+draft: false
+tags: ["streaming", "zdf", "germany"]
+description: "Was ist neu in der ZDF-Mediathek im Februar 2026? Von der beliebten Serie Frühling bis zu den Olympischen Winterspielen - alle Streaming-Highlights im Überblick."
 ---
 
 ## Die Highlights der ZDF-Mediathek im Februar 2026
