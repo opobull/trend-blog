@@ -1,6 +1,6 @@
 ---
 title: "Estrenos de Entretenimiento: 5 de febrero de 2026 PM - Top 6 Anuncios"
-date: 2026-02-05T21:00:00+09:00
+date: 2026-02-05T15:00:00+09:00
 draft: false
 tags: ["entertainment", "streaming", "apple-tv", "prime-video", "netflix", "movies", "tv-series", "anime"]
 description: "Resumen de la tarde: Lucky protagonizada por Anya Taylor-Joy confirma fecha de estreno en Apple TV+, Cross Temporada 2 debuta el 11 de febrero en Prime Video, tráiler del doblaje en inglés de BAKI-DOU, The Bluff con Priyanka Chopra llega el 25 de febrero, thriller de supervivencia Last Ride de Spike Lee, y el debut en el terror de Lou Ferrigno en The Hermit."

@@ -1,6 +1,6 @@
 ---
 title: "엔터테인먼트 속보: 2026년 2월 5일 오후 - 주요 발표 6선"
-date: 2026-02-05T21:00:00+09:00
+date: 2026-02-05T15:00:00+09:00
 draft: false
 tags: ["entertainment", "streaming", "apple-tv", "prime-video", "netflix", "movies", "tv-series", "anime"]
 description: "오후 속보: 안야 테일러 조이 주연 Lucky가 Apple TV+ 방영일 확정, Cross 시즌 2가 2월 11일 Prime Video에서 첫 방영, BAKI-DOU 영어 더빙 트레일러 공개, 프리얀카 초프라 주연 The Bluff 2월 25일 공개, 스파이크 리 제작 서바이벌 스릴러 Last Ride, 루 페리그노의 호러 데뷔작 The Hermit"

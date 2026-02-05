@@ -1,6 +1,6 @@
 ---
 title: "エンターテインメントリリース：2026年2月5日午後 - 注目の6作品"
-date: 2026-02-05T21:00:00+09:00
+date: 2026-02-05T15:00:00+09:00
 draft: false
 tags: ["entertainment", "streaming", "apple-tv", "prime-video", "netflix", "movies", "tv-series", "anime"]
 description: "夕方のまとめ：アニャ・テイラー＝ジョイ主演「Lucky」がApple TV+で配信開始日決定、「Cross」シーズン2が2月11日にPrime Videoでデビュー、「BAKI-DOU」英語吹替版トレーラー公開、プリヤンカー・チョープラー主演「The Bluff」が2月25日に配信、スパイク・リー製作総指揮のサバイバルスリラー「Last Ride」、ルー・フェリグノのホラーデビュー作「The Hermit」"
