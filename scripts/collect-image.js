@@ -109,7 +109,7 @@ async function searchKeyword(keyword, outputDir) {
       return results;
     }, CONFIG.minWidth, CONFIG.minHeight, CONFIG.maxCandidates);
     
-    // DOM 순서대로 썸네일 처리 + 번호 오버레이
+    // DOM 순서대로 썸네일 처리 + 번호 오버레이 (가로 이미지만)
     const imageData = await page.evaluate((imageDataByDocid, maxCount) => {
       const thumbnails = document.querySelectorAll('div[data-lpage]');
       const results = [];
@@ -121,6 +121,10 @@ async function searchKeyword(keyword, outputDir) {
         if (!docid || !imageDataByDocid[docid]) return;
         
         const imgInfo = imageDataByDocid[docid];
+        
+        // 가로 이미지만 수집 (세로 이미지 스킵)
+        if (!imgInfo.isHorizontal) return;
+        
         const index = results.length + 1;
         
         results.push({
@@ -178,11 +182,10 @@ async function searchKeyword(keyword, outputDir) {
     const metadataPath = path.join(outputDir, 'search-result.json');
     fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2));
     
-    // 요약 출력
-    console.log(`\n📐 이미지 후보:`);
+    // 요약 출력 (가로 이미지만)
+    console.log(`\n📐 이미지 후보 (가로만):`);
     imageData.slice(0, 10).forEach(img => {
-      const hLabel = img.isHorizontal ? '가로✓' : '세로';
-      console.log(`   ${img.index}: ${img.width}x${img.height} (${hLabel}, ${img.megapixels}MP)`);
+      console.log(`   ${img.index}: ${img.width}x${img.height} (${img.megapixels}MP)`);
     });
     
     console.log(`\n💡 선택: node collect-image.js download --selection [번호] --work ${outputDir} --out ./image.jpg`);
