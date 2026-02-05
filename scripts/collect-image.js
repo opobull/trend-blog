@@ -66,7 +66,7 @@ async function searchKeyword(keyword, outputDir) {
   await page.setViewport({ width: 1400, height: 900 });
   
   try {
-    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}&tbm=isch&hl=en&gl=us`;
+    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}&tbm=isch&tbs=iar:w&hl=en&gl=us`;
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
     await sleep(2000);
     
