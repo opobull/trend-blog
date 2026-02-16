@@ -13,7 +13,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-# 다국어 설정
+# Language settings - English only for now
 [languages]
   [languages.en]
     languageCode = 'en-US'
@@ -21,43 +21,10 @@ buildExpired = false
     weight = 1
     title = 'Within Trend'
     [languages.en.params]
-      description = "Real-time trending topics and breaking news coverage"
+      description = "Your guide to streaming, movies, and entertainment trends"
 
-  [languages.ja]
-    languageCode = 'ja-JP'
-    languageName = '日本語'
-    weight = 2
-    title = 'Within Trend'
-    contentDir = 'content/ja'
-    [languages.ja.params]
-      description = "リアルタイムのトレンドトピックとニュース"
-
-  [languages.de]
-    languageCode = 'de-DE'
-    languageName = 'Deutsch'
-    weight = 3
-    title = 'Within Trend'
-    contentDir = 'content/de'
-    [languages.de.params]
-      description = "Echtzeit-Trendthemen und aktuelle Nachrichten"
-
-  [languages.es]
-    languageCode = 'es-ES'
-    languageName = 'Español'
-    weight = 4
-    title = 'Within Trend'
-    contentDir = 'content/es'
-    [languages.es.params]
-      description = "Temas de tendencia y noticias en tiempo real"
-
-  [languages.ko]
-    languageCode = 'ko-KR'
-    languageName = '한국어'
-    weight = 5
-    title = 'Within Trend'
-    contentDir = 'content/ko'
-    [languages.ko.params]
-      description = "실시간 트렌드 토픽과 뉴스"
+# Multilang disabled temporarily - focus on English SEO first
+# Will re-enable after establishing traffic baseline
 
 [params]
   env = "production"
