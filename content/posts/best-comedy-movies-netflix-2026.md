@@ -1,6 +1,6 @@
 ---
 title: "30 Best Comedy Movies on Netflix Right Now (2026) — Ranked by Laughs"
-date: 2026-02-19T09:00:00+09:00
+date: 2026-02-18T12:00:00+09:00
 draft: false
 description: "The funniest comedy movies on Netflix in 2026 — from absurdist classics to new Netflix Originals. Ranked and organized by comedy style so you find exactly what makes you laugh."
 tags: ["netflix", "comedy movies", "funny movies", "streaming", "best comedies 2026"]
